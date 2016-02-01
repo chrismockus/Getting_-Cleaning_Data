@@ -29,7 +29,3 @@ Dependencies
 More Information
 
 For more information on the data set, please refer to http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-
-    Status API Training Shop Blog About Pricing 
-
-    © 2016 GitHub, Inc.
